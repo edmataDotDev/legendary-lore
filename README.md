@@ -1,4 +1,4 @@
-# legendary-lore-rag
+# legendary-lore
 
 Corpus of lore for legendary, mythical and other notable Pokémon (one Markdown file per Pokémon,
 grouped by generation under `documents/gen-N/`), intended as the knowledge base for a RAG pipeline that will
